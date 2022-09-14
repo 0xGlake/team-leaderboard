@@ -22,13 +22,14 @@ let teamAddys = new Map<string, string>([
 	["29iErmt6WbsEVmE6Rm1HGRaor6b2kxxHrejPKrcbe37n", "Member 8"],
 	["niCk6QHFU1kyU56Mdq5RJzKrecdkNSn23ZA6wduFdWS", "Member 9"],
 	["3gXdi65BunRF2ZirJKMYcga2TAb5HgPZzkCBTqegro2u", "Member 10"],
-	["AYmNd1BENhEmqxDhNvfHDE9EzsMHpCnfhkpu3BWktctP", "Member 11"],
+	["LUKEsMb7fu64BVHStVfNB4DisR6g62wfq7mgjqymepp", "Member 11"],
 	["dWe7eT2mHkWgbhSNtBVN89sYAPNGFNvuHQXVUq2wh7N", "Member 12"],
 	["AhyqQnpZZqn3YTxeYhUx3ZA6RrZm5yLJGabDbzZ5BPNF", "Member 13"],
 	["BiGZJeWeQv9arWQ38vwTzb4SF8DoQ5GdCqNUrSKmqWRy", "Member 14"],
 	["9jMAUgoiHZXsoGomc6NFTvarZojxpNJPtz816zq2gQM6", "Member 15"],
 	["2tdWByK1xSQVEhbYydxAxt3mR2uorjvM1Rk5NzrPKyb3", "Member 16"],
-	["HCcUvWgSkb6UevUPcvUiuhUAefXgfGyppxK9tY434FPv", "Member 17"]
+	["HCcUvWgSkb6UevUPcvUiuhUAefXgfGyppxK9tY434FPv", "Member 17"],
+	["LUiqSfUDMLWncsE1wfZGWr5hnv6V3WmWLW2XyKPctcS", "Member 18"]
 ]);
 
 let teamLeaderboard = new Map<string, number>();
