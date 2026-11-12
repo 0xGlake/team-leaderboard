@@ -1,4 +1,4 @@
-# drift-team-leaderboard
+# team-leaderboard
 
 
 To run use: nodemon index.ts
